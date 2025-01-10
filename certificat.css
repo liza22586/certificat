@@ -11,7 +11,6 @@
     text-align: center;
     margin-bottom: 5px;
     color: #b4b4b4;
-
 }
 
 
@@ -29,6 +28,6 @@
     }
 
     .certifications img {
-        filter: invert(100%);
+        filter: brightness(0) invert(1); 
     }
 }
